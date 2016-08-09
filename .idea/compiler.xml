@@ -19,6 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="stock-evaluator_main" target="1.8" />
+      <module name="stock-evaluator_test" target="1.8" />
       <module name="stockEval_main" target="1.8" />
       <module name="stockEval_test" target="1.8" />
     </bytecodeTargetLevel>
