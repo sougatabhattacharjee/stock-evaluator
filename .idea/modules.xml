@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stockEval.iml" filepath="$PROJECT_DIR$/.idea/modules/stockEval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stock-evaluator.iml" filepath="$PROJECT_DIR$/.idea/modules/stock-evaluator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stock-evaluator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stock-evaluator_main.iml" group="stock-evaluator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stock-evaluator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stock-evaluator_test.iml" group="stock-evaluator" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/stockEval_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stockEval_main.iml" group="stockEval" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/stockEval_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stockEval_test.iml" group="stockEval" />
     </modules>
